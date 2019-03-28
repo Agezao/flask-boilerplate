@@ -1,0 +1,1 @@
+from .index import INDEX_BLUEPRINT

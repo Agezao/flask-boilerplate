@@ -1,0 +1,6 @@
+env/
+env-activate.sh
+env-deactivate.sh
+__pycache__/
+server.log
+config.py
